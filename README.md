@@ -13,13 +13,6 @@ Install node modules
 
 $ npm install
 
-Install mysql and sequalize on your machine.
-Add values in .env
-
-$ export NODE_ENV=development
-
-$ export MYSQL_URI_LOCAL=<mysql-url>
-
 Run server
 
-$ npm run start:dev
+$ npm run dev
